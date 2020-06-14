@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		9C1EF28023EA5E2E00B528FD /* 06-block的本质 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "06-block的本质"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C1EF28323EA5E2E00B528FD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		9C1EF28A23EA660E00B528FD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				9C1EF28323EA5E2E00B528FD /* main.m */,
+				9C1EF28A23EA660E00B528FD /* main.cpp */,
 			);
 			path = "06-block的本质";
 			sourceTree = "<group>";
